@@ -1,13 +1,13 @@
-#install
-git clone https://github.com/riabow/FastApiTestTask.git
-virtualenv env 
-activate 
-pip install fastapi pandas uvicorn sqlalchemy
-python main.py 
-
-http://127.0.0.1:5000/docs
-any questions - riabow@mail.ru +792637727 TWO 8 
-have a good day.
+#install<br>
+git clone https://github.com/riabow/FastApiTestTask.git<br>
+virtualenv env <br>
+activate <br>
+pip install fastapi pandas uvicorn sqlalchemy <br>
+python main.py <br>
+<br>
+http://127.0.0.1:5000/docs <br>
+any questions - riabow@mail.ru +792637727 TWO 8 <br>
+have a good day.<br>
 
 
 
